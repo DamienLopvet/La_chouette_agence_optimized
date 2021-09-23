@@ -1080,6 +1080,19 @@ h4 {
         width: 180px;
         height: 320px;
     }
+    .bloc-mob-center-text {
+        text-align: center;
+    }
+    .mpgoogle{
+        padding-left: 10px;
+        max-width: calc(100% - 10px)!important;
+    }
+    a.social {
+        display: block;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+
 }
 
 @media (max-width: 400px) {
@@ -1089,15 +1102,7 @@ h4 {
     }
 }
 
-@media (max-width: 767px) {
-    .bloc-mob-center-text {
-        text-align: center;
-    }
-    .mpgoogle{
-        padding-left: 10px;
-        max-width: calc(100% - 10px)!important;
-    }
-}
+
 #chouette-content-info{
     font-size: 16px;
     font-weight: 700;
