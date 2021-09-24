@@ -102,6 +102,7 @@ a:hover {
 .texture-paper::before {
     background: url("img/texture-paper.webp");
     background-size: 100px 100px;
+    opacity: 0.7;
 }
 
 .b-parallax {
@@ -741,7 +742,7 @@ a {
 }
 
 
-}
+
 .titre_h2_first{
     color: #5c4c4c!important;
     max-width: 460px;
