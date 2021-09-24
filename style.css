@@ -843,19 +843,21 @@ h4 {
 
 .ltc-white {
     color: #FFFFFF!important;
+    padding: 5px;
 }
 
 .ltc-white:hover {
     color: white;
     background-color: #303030;
-    padding: 5px;
+    
     border-radius: 6px;
 }
 .ltc-white:focus {
-    color: white;
-    background-color: #303030;
+    color: #eb7037!important;
+    background-color: white;
     padding: 5px;
     border-radius: 6px;
+    border: 4px solid white!important;
 }
 .ltc-atomic-tangerine {
     color: #EB7037!important;
