@@ -22,8 +22,6 @@
 <h2>
     Les resultats
 </h2>
-<<<<<<< HEAD
-
   <a href="https://github.com/DamienLopvet/la_chouette_agence_optimized/blob/main/screenshot-analyse/P4_01_performances-et-accessibilit%C3%A9/performance-et-accessibilit%C3%A9-lighthouse.pdf"><h3>  Resultats globaux de performances de chargement, SEO et accessibilité avec "Lighthouse" 
 </h3></a>
 
