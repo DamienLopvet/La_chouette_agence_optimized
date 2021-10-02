@@ -16,32 +16,22 @@
 <H2>
     Le site à l'arrivée
 </H2>
-<a href="https://damienlopvet.github.io/la_chouette_agence_optimized/index.html"></a>
+<a href="https://damienlopvet.github.io/la_chouette_agence_optimized/index.html">
 <img src="/screenshot-analyse/la-chouette-apres.jpg"/>
 </a>
 <h2>
     Les resultats
 </h2>
-  <a href="https://github.com/DamienLopvet/la_chouette_agence_optimized/blob/main/screenshot-analyse/P4_01_performances-et-accessibilit%C3%A9/performance-et-accessibilit%C3%A9-lighthouse.pdf"><h3>  Resultats globaux de performances de chargement, SEO et accessibilité avec "Lighthouse" 
-</h3></a>
+  <a href="https://github.com/DamienLopvet/la_chouette_agence_optimized/blob/main/screenshot-analyse/P4_01_performances-et-accessibilit%C3%A9/performance-et-accessibilit%C3%A9-lighthouse.pdf">
+    <h3>  Resultats globaux de performances de chargement, SEO et accessibilité avec "Lighthouse" 
+</h3>
+</a>
 
 <a href="https://github.com/DamienLopvet/la_chouette_agence_optimized/blob/main/screenshot-analyse/P4_01_performances-et-accessibilit%C3%A9/performance-gtMetrix.pdf">
     <h3>
 Resultats avec "Gt-metrix"
 </h3>
 </a>
-
-
-=======
-<h3>
-    Resultats globaux de performances de chargement, SEO et accessibilité avec "Lighthouse" 
-</h3>
-<embed src="screenshot-analyse/P4_01_performances-et-accessibilité/performance-et-accessibilité-lighthouse.pdf" width="840px" />
-<h3>
-Resultats avec "Gt-metrix"
-</h3>
-<embed src="screenshot-analyse/P4_01_performances-et-accessibilité/performance-gtMetrix.pdf" width="840"/>
->>>>>>> main
 <h3>
     Mes 10 recommandations
 </h3>
