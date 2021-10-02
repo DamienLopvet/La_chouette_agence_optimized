@@ -27,11 +27,11 @@
 <h3>
     Resultats globaux de performances de chargement, SEO et accessibilité avec "Lighthouse" 
 </h3>
-<embed src="screenshot-analyse/P4_01_performances-et-accessibilité/performance-et-accessibilité-lighthouse.pdf" />
+<embed src="screenshot-analyse/P4_01_performances-et-accessibilité/performance-et-accessibilité-lighthouse.pdf" width="840" />
 <h3>
 Resultats avec "Gt-metrix"
 </h3>
-<embed src="screenshot-analyse/P4_01_performances-et-accessibilité/performance-gtMetrix.pdf" />
+<embed src="screenshot-analyse/P4_01_performances-et-accessibilité/performance-gtMetrix.pdf" width="840"/>
 <h3>
     Mes 10 recommandations
 </h3>
