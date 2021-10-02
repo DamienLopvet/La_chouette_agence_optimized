@@ -13,13 +13,13 @@
     Le site de départ 
 </H2>
 <a href="https://damienlopvet.github.io/La_chouette_agence/">
-<img src="/screenshot-analyse/La-chouette-apres.jpg">
+<img src="/screenshot-analyse/La-chouette-avant.jpg"/>
 </a>
 <H2>
     Le site à l'arrivée
 </H2>
 <a href="https://damienlopvet.github.io/la_chouette_agence_optimized/index.html"></a>
-<img src="/screenshot-analyse/la-chouette-apres.jpg">
+<img src="/screenshot-analyse/la-chouette-apres.jpg"/>
 </a>
 <h2>
     Les resultats
